@@ -1,2 +1,3 @@
 # Ejercicios-estructurales funcion -Pseint
-6-17
+6-22
+
