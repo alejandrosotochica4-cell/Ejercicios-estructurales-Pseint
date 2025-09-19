@@ -1,2 +1,2 @@
-# Ejercicios-estructurales-Pseint
+# Ejercicios-estructurales funcion -Pseint
 6-17
